@@ -32,6 +32,12 @@ html {
 body {
     background: var(--bg-color);
     color: var(--text-color);
+    /*
+    background-image: url("/fondo_t.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;*/
 }
 .header {
     position: fixed;
